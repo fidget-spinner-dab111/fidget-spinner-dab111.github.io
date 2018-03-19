@@ -15,13 +15,12 @@ body {
     color: white;
     text-shadow: 0 0 4px #00ff00; 
     font-family: ocra;
-    font-size: 12px;
+    font-size: 16px;
     font-weight: 400;
 }
 hr {
-    height: 10px;
     border: 0;
-    box-shadow: 0 10px 10px -10px #00ff00 inset;
+    box-shadow: 0px 1px 3px #00ff00 inset, 0px 0px 8px #00ff00;
 }
 p {
     text-indent: 2em;
