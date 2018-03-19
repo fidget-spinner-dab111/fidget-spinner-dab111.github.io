@@ -1,2 +1,2 @@
 # no
-[here it is on github retard](https://fidget-spinner-dab111.github.io/)  
+[here is the real github repo, retard](https://fidget-spinner-dab111.github.io/)
