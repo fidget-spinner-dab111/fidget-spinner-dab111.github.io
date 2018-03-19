@@ -1,25 +1,25 @@
 @font-face {
-        src: url("ocra.otf");
-        font-family: "ocra";
-      }
-      body {
-        margin-left: 20%;
-        margin-right: 20%;
-        background-color: black;
-        color: white;
-        text-shadow: 0 0 4px #00ff00; 
-        font-family: ocra;
-        font-size: 12px;
-        font-weight: 400;
-      }
-      h1 {
-        text-align: center;
-      }
-      img {
-        text-align: center;
-      }
-      a {
-        color: white;
-        text-decoration: underline;
-      }
-      // Thanks https://gist.github.com/Zorbash/4032473
+    src: url("ocra.otf");
+    font-family: "ocra";
+}
+body {
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: black;
+    color: white;
+    text-shadow: 0 0 4px #00ff00; 
+    font-family: ocra;
+    font-size: 12px;
+    font-weight: 400;
+}
+p {
+    text-indent: 2em;
+}
+h1 {
+    text-align: center;
+}
+a {
+    color: white;
+    text-decoration: underline;
+}
+// Thanks https://gist.github.com/Zorbash/4032473
