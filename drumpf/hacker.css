@@ -28,6 +28,7 @@ h1 {
     text-align: center;
 }
 a {
+    float: left;
     white-space: nowrap;
     color: white;
     text-decoration: underline;
