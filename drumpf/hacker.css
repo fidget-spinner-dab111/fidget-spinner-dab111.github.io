@@ -21,6 +21,9 @@ body {
 hr {
     box-shadow: 0px 1px 3px #00ff00 inset, 0px 0px 8px #00ff00;
 }
+img {
+    float: left;
+}
 p {
     text-indent: 2em;
 }
