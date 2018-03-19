@@ -2,6 +2,12 @@
     src: url("ocra.otf");
     font-family: "ocra";
 }
+.footer {
+    margin-top: 100px;
+    height: 100px;
+    clear: both;
+    position: relative;
+}
 body {
     margin-left: 20%;
     margin-right: 20%;
@@ -11,6 +17,11 @@ body {
     font-family: ocra;
     font-size: 12px;
     font-weight: 400;
+}
+hr {
+    height: 10px;
+    border: 0;
+    box-shadow: 0 10px 10px -10px #00ff00 inset;
 }
 p {
     text-indent: 2em;
