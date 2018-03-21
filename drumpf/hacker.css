@@ -18,6 +18,11 @@ body {
     font-size: 16px;
     font-weight: 400;
 }
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 hr {
     box-shadow: 0px 1px 3px #00ff00 inset, 0px 0px 8px #00ff00;
 }
